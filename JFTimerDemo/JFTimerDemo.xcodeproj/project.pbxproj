@@ -96,8 +96,7 @@
 				0157B159223F4532001A970E /* ViewController.m */,
 				0157B179223F45DD001A970E /* BViewController.h */,
 				0157B17A223F45DD001A970E /* BViewController.m */,
-				0157B181223FA0B7001A970E /* NSTimer+JFReallyCrazy.h */,
-				0157B182223FA0B7001A970E /* NSTimer+JFReallyCrazy.m */,
+				FA4FDAAF230BF3E800CE62DC /* Timer */,
 				0157B15B223F4532001A970E /* Main.storyboard */,
 				0157B15E223F4534001A970E /* Assets.xcassets */,
 				0157B160223F4534001A970E /* LaunchScreen.storyboard */,
@@ -114,6 +113,15 @@
 				0157B170223F4534001A970E /* Info.plist */,
 			);
 			path = JFTimerDemoUITests;
+			sourceTree = "<group>";
+		};
+		FA4FDAAF230BF3E800CE62DC /* Timer */ = {
+			isa = PBXGroup;
+			children = (
+				0157B181223FA0B7001A970E /* NSTimer+JFReallyCrazy.h */,
+				0157B182223FA0B7001A970E /* NSTimer+JFReallyCrazy.m */,
+			);
+			path = Timer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
