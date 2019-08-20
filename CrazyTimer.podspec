@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "CrazyTimer"
-  s.version      = "1.2.0"
+  s.version      = "1.2.1"
   s.summary      = "一个不用手动关闭的定时器，不会与当前对象产生循环引入导致不释放问题"
 
   # This description is used to generate tags and improve search results.
